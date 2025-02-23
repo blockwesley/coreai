@@ -1,0 +1,2 @@
+# coreai
+Core Artificial Intelligence
