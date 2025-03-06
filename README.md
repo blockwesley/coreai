@@ -7,6 +7,10 @@ Core Artificial Intelligence - a curated list of AIML Essentials for AI practiti
   * by Stuart Russell and Peter Norvig 
     * https://aima.cs.berkeley.edu/ 
       * See Also : https://github.com/aimacode
+* ### Introduction to Artificial Intelligence
+  * by Wolfgang Ertel
+    * https://link.springer.com/book/10.1007/978-3-658-43102-0
+        
 * ### Applied Data Science with Python and Jupyter
   * by Alex Galea
     * https://www.packtpub.com/en-us/product/applied-data-science-with-python-and-jupyter-9781789958171
