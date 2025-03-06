@@ -20,3 +20,7 @@ Core Artificial Intelligence - a curated list of AIML Essentials for AI practiti
     * https://www.packtpub.com/en-us/product/hands-on-data-science-and-python-machine-learning-9781787280748
       * See Also : https://github.com/PacktPublishing/Hands-On-Data-Science-and-Python-Machine-Learning
 
+* ### Text Analytics with Python
+  * by Dipanjan Sarkar
+    * [https://www.packtpub.com/en-us/product/hands-on-data-science-and-python-machine-learning-9781787280748](https://link.springer.com/book/10.1007/978-1-4842-4354-1)
+      * See Also : [https://github.com/PacktPublishing/Hands-On-Data-Science-and-Python-Machine-Learning](https://github.com/dipanjanS/text-analytics-with-python?tab=readme-ov-file)
